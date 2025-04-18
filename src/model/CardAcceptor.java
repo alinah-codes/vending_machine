@@ -1,5 +1,4 @@
 package model;
-
 import interfaces.PaymentReceiver;
 
 import java.util.Scanner;
